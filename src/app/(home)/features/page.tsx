@@ -1,7 +1,7 @@
 const Page = () => {
     return (
         <div>
-            Features page
+            features page
         </div>
     );
 }
